@@ -21,7 +21,7 @@ How to install it and use?
 Just clone this repo to install script:
 
 ```
-git clone 
+git clone https://github.com/Alexsandr-Random/Tommi.git
 
 ```
 
