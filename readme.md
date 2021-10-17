@@ -1,8 +1,9 @@
-#Tommi - automated script for common tasks for sysadmins and beginners in linux
-##Written by MentoS
+# Tommi - automated script for common tasks for sysadmins and beginners in linux
+## Written by MentoS
 
 This script was written in help to beginners in difficult linux world and for sysadmins for help in common,
 rutinue tasks. 
+
 What script can?
 
 * LAMP autoinstall && autoremove
@@ -13,23 +14,28 @@ What script can?
 * Phpmyadmin install
 * ... and all this in different combinations in multiplue and single variations
 
+____
+
 How to install it and use?
 
 Just clone this repo to install script:
-'''
+
+```
 git clone 
 
-'''
+```
+
+____
 
 Next to use script just run it with sudo:
-'''
+```
 sudo ./tommi.sh
 
 or
 
 sudo bash tommi.sh
 
-'''
+```
 
 Be aware and read messeges which script promts you!
 
