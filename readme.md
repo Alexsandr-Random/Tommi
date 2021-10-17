@@ -22,7 +22,6 @@ Just clone this repo to install script:
 
 ```
 git clone https://github.com/Alexsandr-Random/Tommi.git
-
 ```
 
 ____
@@ -34,14 +33,8 @@ sudo ./tommi.sh
 or
 
 sudo bash tommi.sh
-
 ```
 
 Be aware and read messeges which script promts you!
 
 Enjoy!
-
-
-
-
-
