@@ -32,7 +32,7 @@ function banner(){
 clear
 echo "$banner"
 }
-#Check for  PreRequired pakages and autoinstall it
+#Check for PreRequired pakages and autoinstall it
 function pkg_check() {
 required_pkgs="sudo bar software-properties-common"
 for pkg in $required_pkgs; do

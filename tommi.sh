@@ -11,10 +11,6 @@
 #Phpmyadmin install
 #Install singe components
 
-#Must can do:
-#LEMP autoinstall
-#Autobackup
-
 #PATH variables
 ABSPATH=$(readlink -f $0)
 ABSDIR=$(dirname $ABSPATH)

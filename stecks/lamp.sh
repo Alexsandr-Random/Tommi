@@ -1,7 +1,5 @@
 #!/bin/bash
 #This script Install and Remove LAMP Steck Automaticly
-#
-#
 #PATH variables
 ABSPATH=$(readlink -f $0)
 ABSDIR=$(dirname $ABSPATH)
